@@ -150,3 +150,39 @@ Para que apareciera en GitHub habría que:
 1. Crear un nuevo repositorio en GitHub.
 2. Vincularlo como remoto: `git remote add origin <url>`.
 3. Subir los cambios: `git push -u origin main`.
+
+
+
+
+## Capturas de pantalla
+
+### git init
+![git init](https://github.com/user-attachments/assets/557aae80-69c8-4a6d-93b8-02510d6e095e)
+
+### git status
+![git status](https://github.com/user-attachments/assets/3e3e8a4e-5f18-426b-ab95-d7bb697a99d1)
+
+### git add + git status
+![git add](https://github.com/user-attachments/assets/83b4118a-c8a6-444d-86d7-7ce4a44e1db6)
+
+### git commit
+![git commit](https://github.com/user-attachments/assets/932adf5c-d9c8-4702-8504-06c2b29f129c)
+
+### git status y git diff
+![git diff](https://github.com/user-attachments/assets/95bbb5ce-a99a-4454-8c16-d4893b8bc0fb)
+
+### git status con .gitignore
+![gitignore](https://github.com/user-attachments/assets/078c6660-c186-4c9a-9b79-03347ec4fbb3)
+
+### git checkout -b develop
+![git checkout](https://github.com/user-attachments/assets/c1c0b29d-c3b4-4927-8f90-8b0082698597)
+
+### git push origin develop
+![git push develop](https://github.com/user-attachments/assets/2ece38bd-c48e-4749-971d-3ebcaa11e9b8)
+
+### git pull origin main
+![git pull main](https://github.com/user-attachments/assets/3f004333-39e3-4c0a-baf6-1d92c51b55a6)
+
+### GitHub
+<img width="921" height="421" alt="image" src="https://github.com/user-attachments/assets/c0da0eaf-1640-4def-af68-c7abe498e2c3" />
+<img width="921" height="518" alt="image" src="https://github.com/user-attachments/assets/4e7eaf33-722d-4f19-9f3b-1c8cd7e1000a" />
